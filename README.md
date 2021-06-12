@@ -1,4 +1,4 @@
-# [Introduction]:[/1.introduction.md]
+# [Introduction]:(1.introduction.md)
 
 # What is Python
 
